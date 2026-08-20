@@ -1,0 +1,2 @@
+o resumo da aula
+O professor comeuçou falando sobre o git e como ele foi criado pela equipe do Linux, e suas diferenças do github, depois eles nos explicaram como criar um commit , usar o git status, o git push origin e git add
